@@ -29,7 +29,7 @@ class OPIsland extends IslandGenerator {
      * @return string
      */
     public function getName(): string {
-        return "OP";
+        return "hurojetuhoeruiorteiu945094";
     }
 
     /**
