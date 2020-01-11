@@ -30,7 +30,7 @@ class PalmIsland extends IslandGenerator {
      * @return string
      */
     public function getName(): string {
-        return "Palm";
+        return "iojdfgjiofijgod40444";
     }
 
     /**
