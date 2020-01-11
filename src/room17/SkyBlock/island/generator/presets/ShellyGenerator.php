@@ -29,7 +29,7 @@ class ShellyGenerator extends IslandGenerator {
      * @return string
      */
     public function getName(): string {
-        return "Shelly";
+        return "59489845984589";
     }
 
     /**
